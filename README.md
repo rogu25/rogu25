@@ -14,23 +14,23 @@ Soy un desarrollador web de nivel jr. capaz de construir una web desde cero, des
 </div>
 
 <h3>🛠 Tech Stack</h3>
- *<h5>programming language</h5>
+ <h5>programming language</h5>
 
 - 💻 &nbsp; JavaScript | java | php  
 
-*<h5>web technology</h5>
+<h5>web technology</h5>
 
 - 🌐 &nbsp; HTML | CSS | Material UI | NodeJS
 
-*<h5>framework/libraries</h5>
+<h5>framework/libraries</h5>
 
 - 🌐 &nbsp; React | Redux | Express
 
-*<h5>database</h5>
+<h5>database</h5>
 
 - 🛢 &nbsp; Postgres | mongoDB | MySql | Sql Server
 
-*<h5>project management</h5>
+<h5>project management</h5>
 
 - 🔧 &nbsp; Taiga | Figma
 
@@ -38,18 +38,17 @@ Soy un desarrollador web de nivel jr. capaz de construir una web desde cero, des
 
 ### Github Stats
 
-[![Roberto C. Yavar M. GitHub Stats](https://github-readme-stats.vercel.app/api?username=anandmainali&show_icons=true&count_private=true)](https://github.com/rogu25)
+[![Roberto C. Yavar M. GitHub Stats](https://github-readme-stats.vercel.app/api?username=rogu25&show_icons=true&count_private=true)](https://github.com/rogu25)
 
 ### Github Repos
 
-[![ReadMe Card](https://github.com/markets-center/markets-center-client)](https://github.com/markets-center/markets-center-client)
-[![ReadMe Card](https://github.com/rogu25/PI-Pokemons)](https://github.com/rogu25/PI-Pokemons)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rogu25&repo=PI-Pokemons&show_owner=true)](https://github.com/rogu25/PI-Pokemons)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anandmainali&repo=markets-center-client&show_owner=true)](https://github.com/markets-center/markets-center-client)
 
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.anandmainali.com.np" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/Website-www.anandmainali.com.np-blue?style=flat&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/anandmainali/" target="_blank"><img alt="LinkedIn" src="https://www.linkedin.com/in/robertoyavar/"></a>
+<a href="https://www.linkedin.com/in/robertoyavar/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@anandmainali-blue?style=flat&logo=linkedin"></a>
 <a href="mailto:ryavar.montesinos@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-ryavar.montesinos@gmail.com-blue?style=flat&logo=gmail"></a>
 </p>
 
