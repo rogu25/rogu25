@@ -43,7 +43,7 @@ Soy un desarrollador web de nivel jr. capaz de construir una web desde cero, des
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/robertoyavar/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@anandmainali-blue?style=flat&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/robertoyavar/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@rogu25-blue?style=flat&logo=linkedin"></a>
 <a href="mailto:ryavar.montesinos@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-ryavar.montesinos@gmail.com-blue?style=flat&logo=gmail"></a>
 </p>
 
