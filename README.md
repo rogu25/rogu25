@@ -1,5 +1,5 @@
 <p align="center">
- <img width="100px" src="https://devtechnosys.com/insights/wp-content/uploads/2021/07/full-stack-development.gif" align="center" alt="Github Readme Stats" />
+ <img width="500px" src="https://devtechnosys.com/insights/wp-content/uploads/2021/07/full-stack-development.gif" align="center" alt="Github Readme Stats" />
  <h2 align="center">Profile</h2>
 </p>
 
