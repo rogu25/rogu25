@@ -40,11 +40,6 @@ Soy un desarrollador web de nivel jr. capaz de construir una web desde cero, des
 
 [![Roberto C. Yavar M. GitHub Stats](https://github-readme-stats.vercel.app/api?username=rogu25&show_icons=true&count_private=true)](https://github.com/rogu25)
 
-### Github Repos
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rogu25&repo=PI-Pokemons&show_owner=true)](https://github.com/rogu25/PI-Pokemons)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anandmainali&repo=markets-center-client&show_owner=true)](https://github.com/markets-center/markets-center-client)
-
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
