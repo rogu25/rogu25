@@ -24,7 +24,7 @@ Soy un desarrollador web de nivel jr. capaz de construir una web desde cero, des
 
 <h5>framework/libraries</h5>
 
-- 🌐 &nbsp; React | Redux | Express
+- 🌐 &nbsp; React | Redux | Express | sequelize
 
 <h5>database</h5>
 
