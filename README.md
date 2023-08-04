@@ -16,11 +16,11 @@ Soy un desarrollador web de nivel jr. capaz de construir una web desde cero, des
 <h3>🛠 Tech Stack</h3>
  <h5>programming language</h5>
 
-- 💻 &nbsp; JavaScript | java | php 
+- 💻 &nbsp; JavaScript | java 
 
 <h5>web technology</h5>
 
-- 🌐 &nbsp; HTML | CSS | Material UI | NodeJS | Bootstrap5
+- 🌐 &nbsp; HTML | CSS | Material UI | Bootstrap5
 
 <h5>framework/libraries</h5>
 
