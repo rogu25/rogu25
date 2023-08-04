@@ -40,7 +40,7 @@ Soy un desarrollador web de nivel jr. capaz de construir una web desde cero, des
 
 [![Roberto C. Yavar M. GitHub Stats](https://github-readme-stats.vercel.app/api?username=rogu25&show_icons=true&count_private=true)](https://github.com/rogu25)
 
-<h3> 🤝🏻 Connect with Me </h3>
+<h3> 🤝🏻 Contáctame </h3>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/robertoyavar/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@robertoyavar-blue?style=flat&logo=linkedin"></a>
