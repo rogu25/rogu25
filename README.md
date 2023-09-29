@@ -8,7 +8,7 @@
 
 <div>
  <p>
-Soy un desarrollador web de nivel jr. capaz de construir una web desde cero, desde el concepto, la navegación, el diseño y la programación. Habilidad para escribir código bien diseñado, comprobable y eficiente utilizando las mejores prácticas actuales en desarrollo web. Aprendo rápido, trabajo duro en seguir aprendiendo y desarrollando habilidades y me gusta mucho el trabajo en equipo, pero sobre todas las cosas alimento cuerpo y alma con el deporte ⚡.
+Y soy desarrollador web. capaz de construir una web desde cero, desde el concepto, la navegación, el diseño y la programación. Habilidad para escribir código bien diseñado, comprobable y eficiente utilizando las mejores prácticas actuales en desarrollo web. Aprendo rápido, trabajo duro en seguir aprendiendo y desarrollando habilidades y me gusta mucho el trabajo en equipo, pero sobre todas las cosas alimento cuerpo y alma con el deporte ⚡.
 
  </p>
 </div>
