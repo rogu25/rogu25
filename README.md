@@ -46,7 +46,8 @@ Y soy desarrollador web. capaz de construir una web desde cero, desde el concept
 <a href="https://www.linkedin.com/in/robertoyavar/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@robertoyavar-blue?style=flat&logo=linkedin"></a>
 <a href="mailto:ryavar.montesinos@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-ryavar.montesinos@gmail.com-blue?style=flat&logo=gmail"></a>
 </p>
-
+<br/>
+<h4>Cel: +51 - 925055874</h4>
 
 ⭐️ From [@rogu25](https://github.com/rogu25)
 
