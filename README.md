@@ -16,7 +16,7 @@ Y soy desarrollador web. capaz de construir una web desde cero, desde el concept
 <h3>🛠 Tech Stack</h3>
  <h5>programming language</h5>
 
-- 💻 &nbsp; JavaScript | java 
+- 💻 &nbsp; JavaScript | Python 
 
 <h5>web technology</h5>
 
